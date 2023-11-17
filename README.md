@@ -1,2 +1,2 @@
-# ArrowsandBones
- 
+# Arrows & Bones
+Welcome to the Arrows & Bones repository! This is where I will share anything I write for the Arrows & Bones story ~~because World Anvil uses BBCode and god it's such a pain to work with.~~ 

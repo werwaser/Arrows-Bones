@@ -1,0 +1,1 @@
+The Global Institution for Supernatural Threat Response (or **G.I.S.T.R.**) is an international organisation that supersedes governments in what they deem "supernatural issues".

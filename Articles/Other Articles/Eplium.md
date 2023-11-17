@@ -1,0 +1,3 @@
+**Eplium** is an element that suppresses [[Aura]] and its supernatural effects. It is typically found in liquid form, but has a low boiling point. As a liquid, it is viscous and silvery. It is slightly transparent, and reflects light intensely. Eplium has a faint bitter odour that has a honey-like sweetness.
+
+Generally, eplium is harmless to larger organisms in small doses unless it contaminates the bloodstream. Breathing eplium-infused air may cause difficulty breathing due to its viscosity, but otherwise does not greatly impact the body. Eplium is highly dangerous to [[Events]], however. It dampens aura, which may cause painful side effects for creatures with high enough AID levels.
