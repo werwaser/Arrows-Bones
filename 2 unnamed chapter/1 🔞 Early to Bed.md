@@ -2,6 +2,8 @@
 When Director sends the cadets to bed, the four ignore the room assignments and opt instead to pair up. Kalyani pranks Erin and Tristan with her power, and the four finally get to properly meet.
 ## Purpose
 Reveal Kalyani's secret, and get a little character backstory.
+## Location
+[[Violet Quarters]]
 ## Characters 
 ### Perspective
 [[Maxwell Imez]]

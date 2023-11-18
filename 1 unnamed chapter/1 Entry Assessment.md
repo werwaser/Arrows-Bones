@@ -2,6 +2,8 @@
 The cadets are put through the Entry Assessment: a physical course to evaluate the cadets' fitness. Captain Saidi barks orders as they run in a militaristic fashion.
 ## Purpose
 Establish connections between Tristan and Erin, and Tristan and Maxwell.
+## Location
+[[Jinnopi Training Grounds]]
 ## Characters 
 ### Perspective
 [[Tristan Glacier]]

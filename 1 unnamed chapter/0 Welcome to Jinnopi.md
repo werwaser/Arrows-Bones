@@ -2,6 +2,8 @@
 The cadets meet each other for the first time, along with their director, the training grounds captain, and a mysterious man. Before proper introductions can be made, however, the Entry Assessment begins.
 ## Purpose
 Give a basic introduction the cadets and Director, and the dynamics between them.
+## Location
+[[Jinnopi Training Grounds]]
 ## Characters 
 ### Perspective
 [[Tristan Glacier]]

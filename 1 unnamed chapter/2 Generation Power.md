@@ -2,6 +2,8 @@
 Director gives a presentation on what exactly Generation Power is, why the cadets have been selected, and what the rest of orientation will look like. Supervisor Jasper doesn't appreciate when Tristan and Erin back up Kalyani in her prying.
 ## Purpose
 Explain to the reader what Generation Power is, and establish a connection between Tristan and Kalyani.
+## Location
+[[Jinnopi Training Grounds]]
 ## Characters 
 ### Perspective
 [[Tristan Glacier]]

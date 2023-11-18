@@ -2,6 +2,8 @@
 > A 1-2 sentence summary of the scene.
 ## Purpose
 > A sentence explaining why the scene is necessary in the story.
+## Location
+> Location the scene takes place in, or where the characters are travelling to during the scene.
 ## Characters 
 ### Perspective
 > Character who the scene is written in the perspective of.

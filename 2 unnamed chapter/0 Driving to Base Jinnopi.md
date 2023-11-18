@@ -2,6 +2,8 @@
 Maxwell and Kalyani introduce themselves to each other, and bond over finding Erin and Tristan attractive. Erin and Tristan get touchy.
 ## Purpose
 Establish a connection between Maxwell and Kalyani, and show sexual interests forming in the Lilacs.
+## Location
+Back of a van driving to [[Base Jinnopi]].
 ## Characters 
 ### Perspective
 [[Maxwell Imez]]
