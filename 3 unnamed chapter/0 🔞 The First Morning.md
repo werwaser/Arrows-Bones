@@ -1,7 +1,7 @@
 ## Summary
 The cadets get up early to be ready for orientation of Base Jinnopi. Maxwell and Erin meet in the bathroom, and talk about yesterday.
 ## Purpose
-NSFW scene. might need to write to see if it's necessary here, or should be pushed back, or saved as fanfic.
+NSFW scene. might need to write to see if it's necessary here, or saved as fanfic.
 ## Location
 [[Violet Quarters]]
 ## Characters 

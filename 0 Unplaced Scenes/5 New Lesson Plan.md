@@ -1,3 +1,4 @@
+> SPLIT INTO FULL CHAPTER
 ## Summary
 Director summons all the Lilacs for Power training, which is unusual. She reveals she's ditched the expected training methods and that instead they will train their powers as a group.
 ## Purpose
