@@ -3,7 +3,7 @@ Director brings Erin to Power training to see if their power extends beyond just
 ## Purpose
 Develop Erin and Director's adversarial relationship.
 ## Location
-[[Power Training Facility]]
+[[Power Training Facility]], midday
 ## Characters 
 ### Perspective
 [[Erin Xilotl]]

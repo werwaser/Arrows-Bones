@@ -3,7 +3,7 @@ The cadets get up early to be ready for orientation of Base Jinnopi. Maxwell and
 ## Purpose
 NSFW scene. might need to write to see if it's necessary here, or saved as fanfic.
 ## Location
-[[Violet Quarters]]
+[[Violet Quarters]], morning
 ## Characters 
 ### Perspective
 [[Maxwell Imez]]

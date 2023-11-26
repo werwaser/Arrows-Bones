@@ -3,7 +3,7 @@ The Lilacs cook their own dinner, and serve it to Director. She concedes that it
 ## Purpose
 Show the Lilacs starting to reject the "standard procedure" in more permanent ways, and begin bonding with Director.
 ## Location
-[[Violet Quarters]]
+[[Violet Quarters]], evening
 ## Characters 
 ### Perspective
 [[Erin Xilotl]]

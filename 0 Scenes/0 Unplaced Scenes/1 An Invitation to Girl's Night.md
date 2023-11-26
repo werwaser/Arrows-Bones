@@ -3,22 +3,45 @@ Some of the female agents knock on the door to tell Kalyani they want to talk to
 ## Purpose
 > A sentence explaining why the scene is necessary in the story.
 ## Location
-[[Violet Quarters]]
+[[Violet Quarters]], night
 ## Characters 
 ### Perspective
 [[Maxwell Imez]]
 ### Important
 [[Kalyani Salem]]
-[[scottish lady]]
+[[Jessie Adams]]
 ### Appearance
-> Characters who are present in the scene but don't play a crucial role.
 ## Desires
-###### character_name
-1. [character's greatest want for the scene.]
-2. [second thing the character wants. may be in conflict, stretch goal, or unrelated.]
+###### Maxwell
+1. Keep Kalyani safe.
+2. Trust Kalyani to protect herself.
+###### Kalyani
+1. Find out what these agents want with her.
+2. Avoid getting bullied like Erin was recently.
+###### Jessie
+1. Keep Girl's Night a secret from any guys.
+2. Invite Kalyani to Girl's Night.
 ## Emotional Journeys
-###### character_name
-Start: [how the character was feeling when they entered the scene.]
-End: [how the character was feeling when they exited the scene.]
+###### Maxwell
+Start: Chill
+End: Wary
+###### Kalyani
+Start: Chill
+End: Stiff
+###### Jessie
+Start: Merry
+End: Bantering
 ## Emotional Turn
 **POS -> NEG**
+## Beats
+- Maxwell and Kalyani chilling at the table
+	- Chatting about [prev event]
+- Jessie knocks at the door
+	- Maxwell opens and sees a bunch of ladies
+- Jessie asks for Kalyani, alone...
+	- Kalyani stands in the door, Maxwell goes back to table
+- Jessie insists Kalyani comes out of earshot of Maxwell
+- Kalyani gives Maxwell a look: keep an eye on me but don't worry
+- Kalyani goes outside, Maxwell heads upstairs to window
+- Maxwell watches the ladies talk
+	- Kalyani is stiff, before looking back at the quarters, and leaving with them

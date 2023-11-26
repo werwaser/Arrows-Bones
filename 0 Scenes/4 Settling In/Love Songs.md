@@ -3,7 +3,7 @@ Erin discovers Maxwell can play the guitar when they hear him while trying to fi
 ## Purpose
 Explain aromanticism.
 ## Location
-[[Violet Quarters]]
+[[Violet Quarters]], afternoon
 ## Characters 
 ### Perspective
 [[Erin Xilotl]]

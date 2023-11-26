@@ -18,7 +18,7 @@ Skin: medium-brown, well-cared
 Hair: wavy black, shoulder-length with bangs
 
 Voice: British accent
-Fashion style: []
+Fashion style: combines basics and formalwear
 []: []
 
 Best feature: large symmetrical nose

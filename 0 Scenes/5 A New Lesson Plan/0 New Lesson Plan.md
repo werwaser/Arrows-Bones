@@ -4,7 +4,7 @@ Director summons all the Lilacs for Power training, which is unusual. She reveal
 ## Purpose
 Show how much better the Lilacs train with a programme tailored to their skills.
 ## Location
-[[Power Training Facility]]
+[[Power Training Facility]], midday
 ## Characters 
 ### Perspective
 [[Kalyani Salem]]

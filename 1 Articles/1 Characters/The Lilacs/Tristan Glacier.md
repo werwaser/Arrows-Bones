@@ -17,8 +17,12 @@ Eyes: brown with green flecks
 Skin: light
 Hair: light brown, short unstyled
 
-Voice: []
+Voice: no noticeable accent
 Fashion style: []
 Tattoos: [lots. add list]
 
 Best feature: lovable smirk
+
+---
+**Passions.**
+Tristan has two special interests: cooking and []. His favourite music is girlie pop (Britney Spears, Doja Cat, Nicki Minaj, etc.).

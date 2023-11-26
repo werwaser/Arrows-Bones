@@ -3,7 +3,7 @@ On their way back to the quarters with laundry, Erin is stopped by some Red Corp
 ## Purpose
 > A sentence explaining why the scene is necessary in the story.
 ## Location
-[[Base Jinnopi]] (between Violet Quarters and laundry)
+[[Base Jinnopi]] (between Violet Quarters and laundry), afternoon
 ## Characters 
 ### Perspective
 [[Erin Xilotl]]

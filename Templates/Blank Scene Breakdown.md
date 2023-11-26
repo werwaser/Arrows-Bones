@@ -3,7 +3,7 @@
 ## Purpose
 > A sentence explaining why the scene is necessary in the story.
 ## Location
-> Location the scene takes place in, or where the characters are travelling to during the scene.
+> Location and time of day the scene takes place in, or where the characters are travelling to during the scene.
 ## Characters 
 ### Perspective
 > Character who the scene is written in the perspective of.
@@ -21,3 +21,5 @@ Start: [how the character was feeling when they entered the scene.]
 End: [how the character was feeling when they exited the scene.]
 ## Emotional Turn
 > **POS -> NEG** or **NEG -> POS**. Usually reflects perspective character's emotional journey.
+## Beats
+> Bullet list of specific moments in the scene.

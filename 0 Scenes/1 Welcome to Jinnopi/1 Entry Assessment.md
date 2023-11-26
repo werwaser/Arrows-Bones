@@ -3,7 +3,7 @@ The cadets are put through the Entry Assessment: a physical course to evaluate t
 ## Purpose
 Establish connections between Tristan and Erin, and Tristan and Maxwell.
 ## Location
-[[Jinnopi Training Grounds]]
+[[Jinnopi Training Grounds]], morning
 ## Characters 
 ### Perspective
 [[Tristan Glacier]]
