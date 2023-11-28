@@ -13,7 +13,7 @@ Develop Erin and Director's adversarial relationship.
 ## Desires
 ###### Erin
 1. Discover more about their power.
-2. Lash out about frustrations of GenP.
+2. Lash out about frustrations over GenP.
 ###### Director
 1. Discover more about their power.
 2. Reassert her ebbing authority over the Lilacs.

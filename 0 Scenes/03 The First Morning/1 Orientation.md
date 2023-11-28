@@ -32,11 +32,11 @@ Show that other agents don't respect Director's position.
 1. Vibe check the new cadets.
 2. Tease Director 24A for her poor division.
 ###### Erin
-1. [character's greatest want for the scene.]
+1. Watch Director squirm.
 ###### Kalyani
 1. Hear the gossip about the Director.
 ###### Jessie
-1. [character's greatest want for the scene.]
+1. Sus out if these kids are cool.
 ###### character_name
 1. [character's greatest want for the scene.]
 ## Emotional Journeys
@@ -53,8 +53,8 @@ End: Troubled
 Start: [how the character was feeling when they entered the scene.]
 End: [how the character was feeling when they exited the scene.]
 ###### Erin
-Start: [how the character was feeling when they entered the scene.]
-End: [how the character was feeling when they exited the scene.]
+Start: Bored
+End: Smug
 ###### Kalyani
 Start: Observant
 End: Intrigued

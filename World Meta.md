@@ -2,8 +2,6 @@
 ## Scope
 ### What is your motivation for building this world?
 I want to build an alternate Earth to set a superpowered mystery novel in.
-### What are you hoping to get out of it?
-I'm hoping to write a 100k+ novel with a target audience of 20-30 year olds  who are unsatisfied by society's structure.
 ### What is the Hook or Unique Selling Point of your world? What makes it unique or different?
 The world has a unique type of energy that, when released causes supernatural things to happen. This has shifted the course of history slightly, making the world recognisable to readers, but still containing surprises and mysteries.
 ## Theme
