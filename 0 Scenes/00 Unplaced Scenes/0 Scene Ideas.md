@@ -1,0 +1,3 @@
+- flashback to a moment on stage
+- a change in fashion
+- 

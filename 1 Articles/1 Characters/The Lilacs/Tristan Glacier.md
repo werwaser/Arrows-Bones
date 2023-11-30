@@ -24,5 +24,8 @@ Tattoos: [lots. add list]
 Best feature: lovable smirk
 
 ---
+**What turns a group into a community?**
+Treasuring everyone's differences.
+
 **Passions.**
-Tristan has two special interests: cooking and []. His favourite music is girlie pop (Britney Spears, Doja Cat, Nicki Minaj, etc.).
+Tristan has two special interests: cooking and [tarot?]. His favourite music is girlie pop (Britney Spears, Doja Cat, Nicki Minaj, etc.).

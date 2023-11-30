@@ -8,12 +8,12 @@ On their way back to the quarters with laundry, Erin is stopped by some Red Corp
 ### Perspective
 [[Erin Xilotl]]
 ### Important
-[[Jasmine Prekke]]
-[red agent]
+*[[Jasmine Prekke]]*
+*[red agent]*
 ### Appearance
-[red agent]
-[red agent]
-[red agent]
+*[red agent]*
+*[red agent]*
+*[red agent]*
 ## Desires
 ###### Erin
 1. Get the clean laundry back to quarters.

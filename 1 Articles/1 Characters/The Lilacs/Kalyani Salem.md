@@ -22,3 +22,7 @@ Fashion style: combines basics and formalwear
 []: []
 
 Best feature: large symmetrical nose
+
+---
+**What turns a group into a community?**
+Having trust in one another.

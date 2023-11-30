@@ -1,5 +1,5 @@
 ## Summary
-Director brings Erin to Power training to see if their power extends beyond just seeing aura. Nothing yields results, and Erin snaps.
+Erin goes to their fourth Power training to see if their power extends beyond just seeing aura. As usual, nothing yields results, and Erin snaps.
 ## Purpose
 Develop Erin and Director's adversarial relationship.
 ## Location

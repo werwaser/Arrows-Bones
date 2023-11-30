@@ -22,3 +22,7 @@ Fashion style: cute-punk
 Piercings: [lots. add list]
 
 Best feature: sharp jaw and cheekbones
+
+---
+**What turns a group into a community?**
+Protecting one another.

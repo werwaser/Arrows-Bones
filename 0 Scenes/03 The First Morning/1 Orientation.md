@@ -11,13 +11,13 @@ Show that other agents don't respect Director's position.
 [[Marguerite Cousteau]]
 [[Tristan Glacier]]
 
-[agent]
+*[agent]*
 ### Appearance
 [[Erin Xilotl]]
 [[Kalyani Salem]]
 
-[[Jessie Adams]]
-[agent]
+*[[Jessie Adams]]*
+*[agent]*
 ## Desires
 ###### Maxwell
 1. Defer to Tristan.

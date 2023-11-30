@@ -24,6 +24,9 @@ Fashion style: casual, rock grunge
 Best feature: dark alluring eyes
 
 ---
+**What turns a group into a community?**
+
+
 Strengths:
 Weaknesses:
 Desires:
