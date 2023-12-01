@@ -83,10 +83,11 @@
 		{"id":"b0d449ba6cd98355","type":"text","text":"E","x":240,"y":660,"width":60,"height":60,"color":"6"},
 		{"id":"9ac8898c2d2f4506","type":"text","text":"T","x":540,"y":420,"width":60,"height":60,"color":"5"},
 		{"id":"da19022fde3127bf","type":"text","text":"T","x":540,"y":660,"width":60,"height":60,"color":"5"},
-		{"id":"41b54bf529663779","type":"text","text":"Inciting Event","x":1200,"y":-240,"width":140,"height":60,"color":"1"},
 		{"id":"53b0d02caf0ea49f","type":"text","text":"Midpoint","x":1200,"y":600,"width":140,"height":60,"color":"1"},
 		{"id":"ea0fa0cd7ddc03d2","type":"text","text":"1st Pinch Point","x":1200,"y":360,"width":140,"height":60,"color":"1"},
-		{"id":"4e1d82efbfc93ccb","type":"text","text":"1st Plot Point","x":1200,"y":40,"width":140,"height":60,"color":"1"}
+		{"id":"4e1d82efbfc93ccb","type":"text","text":"1st Plot Point","x":1200,"y":40,"width":140,"height":60,"color":"1"},
+		{"id":"41b54bf529663779","type":"text","text":"Inciting Event","x":1200,"y":-240,"width":140,"height":60,"color":"1"},
+		{"id":"4d152642e4ec6245","type":"text","text":"Hook","x":-400,"y":-240,"width":140,"height":60,"color":"1"}
 	],
 	"edges":[]
 }

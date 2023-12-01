@@ -4,7 +4,7 @@ The novel will be primarily a sci-fi mystery, with elements of romance genre and
 ## Who is the target audience?
 My target audience is 20-30 year olds who are unsatisfied by society's structure. The novel will be Mature/Explicit.
 ## What aspects of life will this story reflect on?
-Communal expression vs institutional conformity, corrupt institutions, aromanticism, polyamory.
+Communal expression vs institutional conformity, corrupt institutions, aromanticism, polyamory, you can't do this alone.
 ### Theme Question
 What turns a group into a community?
 # Summary

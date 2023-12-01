@@ -22,7 +22,8 @@ The main characters don't have much agency on the world at large, it takes conti
 **Government Presence.** The only defence against supernatural disaster is an international organisation that works above any national governments. They are, however, funded by countries, and so there is a constant power struggle between them.
 **Social Services.** []
 ## Drama (5 points):
-
+1. A solo terrorist has been causing chaos worldwide using their super-strong power that brings songs to life. GISTR is only half-heartedly trying to stop them, because they profit from the clean-up more.
+2. 
 # Setting the Scene
 ## Rules of the World
 ### What are the fundamental differences in the natural laws of your world compared to Earth?
