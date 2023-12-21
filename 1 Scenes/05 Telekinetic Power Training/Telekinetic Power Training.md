@@ -3,7 +3,7 @@ As a telekinetic, Maxwell is the first to begin Power training. He does his best
 ## Purpose
 Introduce Maxwell's power and show how the standard training does not suit him.
 ## Location
-[[Power Training Facility]], midday
+[[Power Training Facility]], afternoon
 ## Characters 
 ### Perspective
 [[Maxwell Imez]]

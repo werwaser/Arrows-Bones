@@ -26,3 +26,6 @@ Best feature: sharp jaw and cheekbones
 ---
 **What turns a group into a community?**
 Protecting one another.
+
+---
+- Hates horror movies, gets easily scared by them

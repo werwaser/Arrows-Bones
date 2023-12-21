@@ -36,3 +36,6 @@ Maxwell develops an insecurity over being inadequate from power training with ot
 
 **Passions.**
 Maxwell enjoys rock, disco, and pop ballads. Music is his biggest hobby, both listening to it and playing it. He has experimented with making his own songs, but has never shared any with anyone or written anything down. Rock is his favourite to listen to, disco is his favourite to dance to, and pop ballads are his favourite to play.
+
+---
+- Enjoys horror movies, prefers psychological horrors over slasher/thriller

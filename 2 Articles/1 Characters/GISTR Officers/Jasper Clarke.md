@@ -30,9 +30,3 @@ Core Values:
 
 Argumentative -> parallel to Erin
 Hypocrite: pretends to agree with GISTR heads to force people to agree with him
-
-**End Goal.**
-is not to rid world of aura? that's impossible
-surveillance state to quell aura? too difficult and large scale
-stop events triggering in people? requires eplium tech. how does powered army help? 
-summon titan using agents' power? why?

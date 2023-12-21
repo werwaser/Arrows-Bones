@@ -1,0 +1,1 @@
+The Research Sector is where the development side of [[Project EPLIUM]] takes place. It is walled off from the rest of [[Base Jinnopi]], and its only entrance is through the [[Operations Centre]] (there are one-way emergency exits). The wall is patrolled by guards on the inside.

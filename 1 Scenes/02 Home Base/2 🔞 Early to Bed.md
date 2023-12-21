@@ -8,8 +8,9 @@ Reveal Kalyani's secret, and get a little character backstory.
 ### Perspective
 [[Kalyani Salem]]
 ### Important
-[[Erin Xilotl]]
 [[Maxwell Imez]]
+
+[[Erin Xilotl]]
 [[Tristan Glacier]]
 ### Appearance
 [[Marguerite Cousteau]] (only at start)
@@ -17,31 +18,27 @@ Reveal Kalyani's secret, and get a little character backstory.
 ###### Kalyani
 1. Form trust with the other three.
 2. Prank Erin and Tristan.
-###### Erin
-1. Top Tristan.
-2. Talk dirty to the guys.
 ###### Maxwell
 1. Befriend Kalyani.
 2. Rest for tomorrow.
+###### Erin
+1. Top Tristan.
+2. Talk dirty to the guys.
 ###### Tristan
 1. Make out with Erin.
 2. Connect with everyone.
 ## Emotional Journeys
 ###### Kalyani
 Start: Sleepy
-Mid: Cheeky
-End: Relaxed
-###### Erin
-Start: Teasing
-Mid: Shocked
-End: Smitten
+End: Cheeky
 ###### Maxwell
 Start: Sleepy
-Mid: Impressed
-End: Optimistic
+End: Impressed
+###### Erin
+Start: Teasing
+End: Shocked
 ###### Tristan
 Start: Aroused
-Mid: Flustered
-End: Content
+End: Flustered
 ## Emotional Turn
-**POS -> POS**
+**NEG -> POS**

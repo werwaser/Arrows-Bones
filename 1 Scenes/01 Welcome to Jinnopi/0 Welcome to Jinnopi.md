@@ -14,8 +14,8 @@ Give a basic introduction the cadets and Director, and the dynamics between them
 
 *[[Marguerite Cousteau]]*
 *[[Rauf Saidi]]*
-*[[Jasper Clarke]]*
 ### Appearance
+*[[Jasper Clarke]]*
 ## Desires
 ###### Tristan
 1. Introduce himself to the other cadets.
@@ -37,7 +37,6 @@ Give a basic introduction the cadets and Director, and the dynamics between them
 2. Roughen up the fresh meat.
 ###### Supervisor Jasper
 1. Make sure Director does her job correctly.
-2. Put Director on edge.
 ## Emotional Journeys
 ###### Tristan
 Start: Eager

@@ -35,3 +35,5 @@ The Lilacs break Director out of the Operations Centre and flee Jinnopi.
 ## Resolution
 # Book 3
 The Lilacs team up with the world-class criminal event who unleashed their power alongside songs. They work together to overthrow Jinnopi and expose Project: EPLIUM for what it is. 
+# Side Story
+The Emerald Man: the apartment of a presumed dead man was searched, to find a life-size replica of him laying in his bed made entirely out of a green gemstone. Many years later, the Emerald Man awakes to find himself in a glass case in a museum, still made of crystal.
