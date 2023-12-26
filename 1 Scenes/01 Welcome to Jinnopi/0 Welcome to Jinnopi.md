@@ -3,7 +3,7 @@ The cadets meet each other for the first time, along with their director, the tr
 ## Purpose
 Give a basic introduction the cadets and Director, and the dynamics between them.
 ## Location
-[[Jinnopi Training Grounds]], morning
+[[Entry Assault Course]], morning
 ## Characters 
 ### Perspective
 [[Tristan Glacier]]

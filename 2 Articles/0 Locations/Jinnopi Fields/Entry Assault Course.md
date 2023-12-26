@@ -1,0 +1,1 @@
+Right by one of the gates in the [[Jinnopi Fields]]' fence is the Entry Assault Course. It is a set of obstacle courses intended to test incoming cadets' physical capabilities. There are sixteen identical copies of the same course, which takes roughly five minutes for a person of average fitness to get through.

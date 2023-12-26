@@ -1,3 +1,0 @@
-**Jinnopi** is the base of operations for the [[G.I.S.T.R.]] initiative [[Project EPLIUM]]. Approximately 370 agents and 260 officers live and work there.
-## Geography
-Jinnopi is inland on the most eastern main island of the [[Alraduning Islands]]. The area surrounding the base, referred to as the Jinnopi Fields, is mostly scrubland, occasionally with bizarre rounded cliffs. The base itself was built atop an underground reservoir of [[Eplium]], on a hairpin cliff in a flat plain.

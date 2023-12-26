@@ -3,7 +3,7 @@ Director gives a presentation on what exactly Generation Power is, why the cadet
 ## Purpose
 Explain to the reader what Generation Power is, and establish a connection between Tristan and Kalyani.
 ## Location
-[[Jinnopi Training Grounds]], midday
+[[Jinnopi Fields]], midday
 ## Characters 
 ### Perspective
 [[Tristan Glacier]]

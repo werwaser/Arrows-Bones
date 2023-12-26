@@ -3,7 +3,7 @@ While Director is busy giving Erin power training, Captain will be running the L
 ## Purpose
 > A sentence explaining why the scene is necessary in the story.
 ## Location
-[[Jinnopi Training Grounds]], midday
+[[Jinnopi Fields]], midday
 ## Characters 
 ### Perspective
 [[Kalyani Salem]]
