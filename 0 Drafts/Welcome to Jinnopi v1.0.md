@@ -22,3 +22,42 @@ The first one caught his eye as he passed, and gave him a glance up and down, th
 
 \#
 
+"Now that we are all here, let's begin." The woman addressed the four of them, "My name is Marguerite Cousteau, and I am Director 24A of the Violet Corps, you may call me Director."
+
+She turned to the man, and he introduced himself, "Greetings, cadets! I am Captain Rauf Saidi, you will refer to me as Captain or Sir. I will be running and evaluating your Entry Assessment."
+
+The Director spoke again, "Each of you were given you identification when you arrived in Alraduning Islands, please introduce yourselves with your I.D. and name." She looked to the punk at the end of the line, who shifted their weight to the other hip.
+
+"Uh, sup," their voice was deep and crackly, like a big cat's snarl, but its tone was light and playful. "I'm Erin-"
+
+Director interrupted with, "I.D. first, cadet."
+
+Erin just gave her a slow blink, then sighed and pulled out a card to read from. "Cadet 24A1 Lilac, Erin Xilotl," they said with robotic sarcasm. "They/Them, ACAB, DTF-"
+
+They were cut off again, this time by Captain. "Cadet! You are disrespecting your superiors and will suffer consequences because of it!" Erin just gave him an impish grin. Their tongue flicked along their teeth and Tristan looked away because - again - not the time!
+
+Director's professionalism dropped for a second, and she said, "Uhm yes, agreed. There will be... consequences." She glanced across to the side, where Tristan only now realised another person was standing. He was lean and lightly tanned, with a well fitting suit and sunglasses. The clothes were in that familiar GISTR officer grey, but looked more professional with the blazer fitting so snugly. The confidence they exuded, and the way Director glanced at them, added to the importance. This was clearly Director's boss, in some way, and she was trying very hard to impress him.
+
+After clearing her throat, Director motioned to the next person in line. She tossed her wavy black hair to the side as she met the eyes of everyone as a hello. She was wearing sharply winged eyeliner, and had thick, shaped brows. Her medium-brown skin was velvety smooth and her nose was long and perfectly symmetrical. Another hot one. Dammit. 
+
+"Cadet 24A2 Lilac," she said with a British accent, "Kalyani Salem, She/Her."
+
+"Oh, you think you're so smart, don't you," Captain began, "You think you can just-"
+
+After a few frantic glances around, most going to the mysterious man, Director cut him off to curtly say, "Pronouns are fine, Captain. That is an acceptable addition." He grumbled some more before jerking his hand at the third person in the line.
+
+The guy looked to Tristan and his dark, deep-set eyes that drew him in - *"Fuck! No, stop that."* - gave him the slightest roll, before he sighed and turned back to the group. "I'm Cadet 24A3 Lilac, also known as Maxwell Imez." His voice was mellow and smooth, like melted chocolate. Decadent and intimate and *"Oh my god, Tristan, what is wrong with you? You've just met these people!"* "I use He/Him pronouns," he finished, and turned again to Tristan.
+
+It took Tristan a moment to realise that Maxwell was waiting for him to speak next, and not just gracing him with a view of his scruffy-in-a-hot-way face. "Oh uh, hi!" he fumbled, "I'm Cadet 24A4 Lilac, and my name's Tristan Glacier, He/Him." On instinct, he added on, "It's nice to meet you all," but immediately regretted it as the Captain whipped his aviators off to glare at him.
+
+"Alright, with introductions complete, let me introduce you all to Jinnopi, and Generation Power," Director began.
+
+She was cut off by Erin, who said, "Hold up, what do you mean introductions are over? Who's that guy?" They jerk their thumb at the mysterious man in the suit, who just stands there.
+
+"Um, Supervisor Jasper, would you like to introduce yourself?" Director asked them meekly.
+
+Their only reply was, "They already know more about me than they need to, thank you Director 24." Her cheeks bloomed pink as she mumbled an apology.
+
+Director did her best at composing herself again before continuing. "Welcome, cadets, to Jinnopi, the base of operations for Generation Power. As you and your parents are aware, you have been conscripted into this project for emitting concerningly high A.I.D. levels at a young age. Through Generation Power, we will help you contain your Aura, hone into into a Power, and survive this misfortune to become a new type of public servant."
+
+Tristan could tell this was a scripted spiel, but he couldn't help feel encouraged by it. G.I.S.T.R. officers spoke to him and his family when he was fourteen, and explained that he would become an agent once he was a legal adult. 
