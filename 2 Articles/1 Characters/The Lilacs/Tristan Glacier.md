@@ -31,7 +31,7 @@ Treasuring everyone's differences.
 Tristan has two special interests: cooking and [tarot?]. His favourite music is girlie pop (Britney Spears, Doja Cat, Nicki Minaj, etc.).
 
 ---
-- Gets scarred by horror movies, somehow doesn't realise it
+- Gets scared by horror movies, somehow doesn't realise it
 - Has mild physical sensory issues
 - Is really bad at telling how much time has passed - obsessively keeps track of the time
 - would experience depersonalisation as a teen (symptom of aura)

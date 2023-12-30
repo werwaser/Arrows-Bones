@@ -9,7 +9,7 @@ Explain to the reader what Generation Power is, and establish a connection betwe
 [[Tristan Glacier]]
 ### Important
 [[Erin Xilotl]]
-[[Kalyani Salem]]
+*[[Kalyani Salem]]*
 [[Maxwell Imez]]
 
 [[Marguerite Cousteau]]

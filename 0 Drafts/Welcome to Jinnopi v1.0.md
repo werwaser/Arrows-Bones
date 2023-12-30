@@ -26,7 +26,7 @@ The first one caught his eye as he passed, and gave him a glance up and down, th
 
 She turned to the man, and he introduced himself, "Greetings, cadets! I am Captain Rauf Saidi, you will refer to me as Captain or Sir. I will be running and evaluating your Entry Assessment."
 
-The Director spoke again, "Each of you were given you identification when you arrived in Alraduning Islands, please introduce yourselves with your I.D. and name." She looked to the punk at the end of the line, who shifted their weight to the other hip.
+The Director spoke again, "Each of you were given you identification when your arrived in Alraduning Islands, please introduce yourselves with your I.D. and name." She looked to the punk at the end of the line, who shifted their weight to the other hip.
 
 "Uh, sup," their voice was deep and crackly, like a big cat's snarl, but its tone was light and playful. "I'm Erin-"
 
@@ -46,11 +46,13 @@ After clearing her throat, Director motioned to the next person in line. She tos
 
 After a few frantic glances around, most going to the mysterious man, Director cut him off to curtly say, "Pronouns are fine, Captain. That is an acceptable addition." He grumbled some more before jerking his hand at the third person in the line.
 
-The guy looked to Tristan and his dark, deep-set eyes that drew him in - *"Fuck! No, stop that."* - gave him the slightest roll, before he sighed and turned back to the group. "I'm Cadet 24A3 Lilac, also known as Maxwell Imez." His voice was mellow and smooth, like melted chocolate. Decadent and intimate and *"Oh my god, Tristan, what is wrong with you? You've just met these people!"* "I use He/Him pronouns," he finished, and turned again to Tristan.
+The guy looked to Tristan and his dark, deep-set eyes that drew him in - *"Fuck! No, stop that."* - gave him the slightest roll, before he sighed and turned back to the group. "I'm Cadet 24A3 Lilac, also known as Maxwell Imez." His voice was mellow and smooth, like melted chocolate. Decadent and intimate and *"Oh my god, Tristan, what is wrong with you? You've just met these people!"* 
+
+"I use He/Him pronouns," he finished, and turned again to Tristan.
 
 It took Tristan a moment to realise that Maxwell was waiting for him to speak next, and not just gracing him with a view of his scruffy-in-a-hot-way face. "Oh uh, hi!" he fumbled, "I'm Cadet 24A4 Lilac, and my name's Tristan Glacier, He/Him." On instinct, he added on, "It's nice to meet you all," but immediately regretted it as the Captain whipped his aviators off to glare at him.
 
-"Alright, with introductions complete, let me introduce you all to Jinnopi, and Generation Power," Director began.
+"Alright, with introductions complete, let me welcome you all to Jinnopi, and Generation Power," Director began.
 
 She was cut off by Erin, who said, "Hold up, what do you mean introductions are over? Who's that guy?" They jerk their thumb at the mysterious man in the suit, who just stands there.
 
@@ -58,6 +60,14 @@ She was cut off by Erin, who said, "Hold up, what do you mean introductions are 
 
 Their only reply was, "They already know more about me than they need to, thank you Director 24." Her cheeks bloomed pink as she mumbled an apology.
 
-Director did her best at composing herself again before continuing. "Welcome, cadets, to Jinnopi, the base of operations for Generation Power. As you and your parents are aware, you have been conscripted into this project for emitting concerningly high A.I.D. levels at a young age. Through Generation Power, we will help you contain your Aura, hone into into a Power, and survive this misfortune to become a new type of public servant."
+Director did her best at composing herself again before continuing. "Welcome, cadets, to Jinnopi, the base of operations for Generation Power. As you and your parents are aware, you have been conscripted into this project for emitting concerningly high A.I.D. levels at a young age. Through Generation Power, we will help you contain your Aura, hone it into a Power, and survive this misfortune to become a new type of public servant."
 
-Tristan could tell this was a scripted spiel, but he couldn't help feel encouraged by it. G.I.S.T.R. officers spoke to him and his family when he was fourteen, and explained that he would become an agent once he was a legal adult. 
+\#
+
+Tristan could tell this was a scripted spiel, but he couldn't help feel encouraged by it. G.I.S.T.R. officers spoke to him and his family when he was fourteen, and explained that he would become an agent once he was a legal adult.  [backstory stuff. is it too early for flashback?]
+
+. . .
+
+The Director continued her speech. "Aura is taxing on the body, and the roles you may fill in your future will require physical adeptness. For these reasons, all cadets are required to complete the Entry Assessment."  She gestured to the course behind her. "Captain of the Training Grounds, Rauf Saidi, will lead you through these assault courses. I see some of you received the instruction to wear fitness wear," she paused to glare at Erin and Kalyani, "but for those who haven't, please remove any extra layers or accessories and place them in this crate. You will receive them back at the end of the day." Captain Saidi picked up and tossed a large plastic tub in front of himself. "Line up by your course once you're ready," he said, "Let's finally get moving."
+
+\#

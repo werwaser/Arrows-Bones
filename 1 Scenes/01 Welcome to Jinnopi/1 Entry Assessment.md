@@ -1,7 +1,7 @@
 ## Summary
 The cadets are put through the Entry Assessment: a physical course to evaluate the cadets' fitness. Captain Saidi barks orders as they run in a militaristic fashion.
 ## Purpose
-Establish connections between Tristan and Erin, and Tristan and Maxwell.
+Establish connection between Tristan and Maxwell.
 ## Location
 [[Entry Assault Course]], morning
 ## Characters 
@@ -9,11 +9,12 @@ Establish connections between Tristan and Erin, and Tristan and Maxwell.
 [[Tristan Glacier]]
 ### Important
 [[Erin Xilotl]]
-[[Kalyani Salem]]
-[[Maxwell Imez]]
+*[[Maxwell Imez]]*
 
-[[Rauf Saidi]]
+*[[Rauf Saidi]]*
 ### Appearance
+[[Kalyani Salem]]
+
 [[Marguerite Cousteau]]
 [[Jasper Clarke]]
 ## Desires

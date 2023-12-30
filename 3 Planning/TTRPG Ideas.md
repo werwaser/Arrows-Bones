@@ -1,0 +1,8 @@
+- Powers give a set of abilities
+	- Pick aura type like class, choose from selection like spells/warlock invocations
+- Spend Aura to use abilities
+- Aura increases based on current amount (x1.5 or smth)
+	- Increases at rest, fills to minimum point every day?
+- Level dictates maximum Aura you can contain before risking becoming an Event
+- Eplium air increases ability cost and max Aura
+- Liquid Eplium has different effect based on contact: anti-magic, poison, restraining, etc.
