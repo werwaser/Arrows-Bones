@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"cb01e98f3476a7fc","type":"text","text":"A Bumpy Drive\n[[0 Welcome to Jinnopi]]\n[[1 Entry Assessment]]\n[[2 Generation Power]]","x":-260,"y":-60,"width":260,"height":120},
+		{"id":"cb01e98f3476a7fc","type":"text","text":"[[0 A Bumpy Drive]]\n[[1 Tense Introductions]]\n[[2 Entry Assessment]]\n[[3 Generation Power]]","x":-260,"y":-60,"width":260,"height":120},
 		{"id":"97f1ba438aae67ef","type":"text","text":"Introduce main characters, setting, and world premise","x":-260,"y":-120,"width":260,"height":60},
 		{"id":"c1cd8f01e0fd9028","type":"text","text":"Welcome to Jinnopi","x":-260,"y":-180,"width":200,"height":60},
 		{"id":"868eaba58e3f851e","type":"text","text":"Settling In","x":40,"y":120,"width":200,"height":60},
