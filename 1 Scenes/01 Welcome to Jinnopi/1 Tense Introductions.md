@@ -1,7 +1,7 @@
 ## Summary
 The cadets meet each other for the first time, along with their director, the training grounds captain, and a mysterious man. Before proper introductions can be made, however, the Entry Assessment begins.
 ## Purpose
-Give a basic introduction the cadets and Director, and establish connection between Tristan and Erin.
+Give a basic introduction the cadets and Director, and highlight Erin.
 ## Location
 [[Entry Assault Course]], morning
 ## Characters 
