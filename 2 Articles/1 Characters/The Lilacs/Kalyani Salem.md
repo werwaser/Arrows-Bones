@@ -27,5 +27,8 @@ Best feature: large symmetrical nose
 **What turns a group into a community?**
 Having trust in one another.
 
+**Romance.**
+All her life, Kalyani has ben untouchable, both in terms of ugliness and beauty. She was bullied a lot for her nose, eyebrows, and dark skin in primary and secondary school. After puberty, though, she had a dramatic glow up exagerrated by her change in style. Her parents and teachers disapproved of her wearing heavy makeup to school, but she did so to create a protective mask for herself. Now she was wanted by every guy
+
 ---
 - Loves horror movies

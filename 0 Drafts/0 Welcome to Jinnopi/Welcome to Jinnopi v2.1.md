@@ -176,20 +176,11 @@ Erin moans. "No! I can't take any more! I'm so tired..."
 
 "Xilotl, please. He is your superior. You should not speak of him that way."
 
----
 "Still, if his time is so important, why didn't he just show up after the presentation?"
 
 The Director's supervisor strolls up behind her. "The cadet has a point, Director," he says. Her shoulders tense immediately. "Why couldn't you schedule the Captain to arrive after your presentation?" His face is stone cold, unreadable. Tristan shares a glance with Erin. Their lips are clamped shut and they stare at the Supervisor with a side-eye. The Director's eyes flit about, as if looking for an answer.
 
 The silence is broken by Kalyani helping Erin to their feet. 
-
----
----
-"How was he supposed to assess all of us if he was constantly breathing down one of our necks?"
-
-"Erin-" She sighs. "The Captain is highly perceptive, and notices things you would never imagine he could. If he were not Captain of the Grounds, he would be a highly ranked strategist and no more arguing!" she cut herself off as Erin opened their mouth.
-
----
 
 "Come along then," the Director says with a tight lip. They all walk back through the obstacle courses in silence. Maxwell walks beside Tristan. Their hands brush more than once, and gah! He's overwhelmed with all the sensations and energies and meanings between words and hot people!
 
